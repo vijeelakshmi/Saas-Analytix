@@ -2,7 +2,7 @@
 
 A modern, full‑stack Business Intelligence dashboard built with **Django (backend)** and **React + Vite (frontend)**. Track sales, revenue, user metrics, and performance in real‑time with a beautiful rose/pink theme, high‑precision currency display, and interactive data visualizations.
 
-![Dashboard Preview](https://via.placeholder.com/1200x600/ec4899/ffffff?text=SaaS+Analytics+Dashboard)
+![Dashboard Preview](image.png)
 
 ---
 
