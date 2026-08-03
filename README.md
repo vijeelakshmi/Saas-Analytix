@@ -10,7 +10,8 @@ A modern, full‑stack Business Intelligence dashboard built with **Django (back
 
 | Dashboard | Reports | Live Pulse |
 |-----------|---------|------------|
-| ![Dashboard](https://via.placeholder.com/400x250/ec4899/ffffff?text=Dashboard) | ![Reports](https://via.placeholder.com/400x250/f43f5e/ffffff?text=Reports) | ![Live Pulse](https://via.placeholder.com/400x250/db2777/ffffff?text=Live+Pulse) |
+|![alt text](image.png)  | ![alt text](image-1.png)  |  c:\Users\VIJAYALAKSHMI\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TempState\ScreenClip\{E87CAD09-FD3D-4664-9CA6-E75165C4DE41}.png
+
 
 ---
 
